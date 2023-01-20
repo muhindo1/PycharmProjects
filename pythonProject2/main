@@ -1,0 +1,29 @@
+# Dette er en kommentar
+
+"""
+ja jeg elsker livet mitt.
+elsker du livet ditt?
+"""
+
+# Dette er funksjon
+def hello ():
+   return "Hello world" # funksjonen returnere en streng  Hello world
+
+
+
+  # kall funksjonen med hello () og legg return verdi inn i variabel x
+   x = hello ()
+
+ # print ut variabel x
+ print (x)
+
+ """
+ oppgave 1
+ modifiser funksjonene over til  returnere navnet ditt
+
+ oppgave 2
+ modifisere funksjon over til å returnere tallet 10
+
+ oppgave 3
+ modifisere funksjonen over til å returnere strengen "10"
+ """
